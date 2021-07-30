@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is all about my participation in Professional Certificate in Coding: Women's Cohort (April 2021) prepared by the MIT.
+This project is all about my participation in Professional Certificate in Coding: Women's Cohort (April 2021) prepared by the MIT.<br/>
 This project uses the checkPageBounds function to check for boundaries and setInterval function to move Pac-Man. This project uses several images to simulate Pac-Man's movement, and the following languages: HTML and Javascript.
 
 ## Installation / Requirements

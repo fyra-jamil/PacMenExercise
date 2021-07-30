@@ -7,9 +7,13 @@ This project uses the checkPageBounds function to check for boundaries and setIn
 
 ## Installation / Requirements
 
- This project is required :
+ This project requires :
  - The code-editor such as Visual Studio Code or Notepad++.
  - Internet browser such as Google Chrome and Opera
+ 
+ How to open/use:
+ 1) Download the files into local environment.
+ 2) Run the index.html in selected browser.
 
 ## License
 This code is licensed by MIT.

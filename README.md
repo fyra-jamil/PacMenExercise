@@ -15,6 +15,10 @@ This project uses the checkPageBounds function to check for boundaries and setIn
  1) Download the files into local environment.
  2) Run the index.html in selected browser.
 
+## Roadmap of Future Improvements
+
+It can be improve by adjusting the source code to allow people to control the PacMen's movement.
+
 ## License
 This code is licensed by MIT.
 
